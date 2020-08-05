@@ -1,2 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.arbaelbarca.toastlibrary" />
+    package="com.arbaelbarca.toastlibrary">
+
+    <uses-sdk
+        android:maxSdkVersion="Q"
+        android:minSdkVersion="17" />
+</manifest>
